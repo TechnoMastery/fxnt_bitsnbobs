@@ -1,0 +1,9 @@
+
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:grass_block"
+  },
+  "result": "bitsnbobs:grass_slab",
+  "count": 2
+}

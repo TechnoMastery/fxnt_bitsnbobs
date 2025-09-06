@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "bitsnbobs:block/plating/iron_plating_block",
+    "side": "bitsnbobs:block/plating/iron_plating_block_side"
+  }
+}

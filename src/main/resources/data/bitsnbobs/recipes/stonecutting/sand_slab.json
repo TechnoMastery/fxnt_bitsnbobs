@@ -1,0 +1,9 @@
+
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:sand"
+  },
+  "result": "bitsnbobs:sand_slab",
+  "count": 2
+}

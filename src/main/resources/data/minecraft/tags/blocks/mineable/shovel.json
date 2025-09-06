@@ -1,0 +1,22 @@
+{
+  "values": [
+    "bitsnbobs:mulch_block",
+    "bitsnbobs:dirt_layers_block",
+    "bitsnbobs:coarse_dirt_layers_block",
+    "bitsnbobs:rooted_dirt_layers_block",
+    "bitsnbobs:mud_layers_block",
+    "bitsnbobs:muddy_mangrove_roots_layers_block",
+    "bitsnbobs:mulch_layers_block",
+    "bitsnbobs:gravel_layers_block",
+    "bitsnbobs:sand_layers_block",
+    "bitsnbobs:grass_layers_block",
+    "bitsnbobs:gravel_slab",
+    "bitsnbobs:dirt_slab",
+    "bitsnbobs:coarse_dirt_slab",
+    "bitsnbobs:grass_slab",
+    "bitsnbobs:sand_slab",
+    "bitsnbobs:podzol_layers_block",
+    "bitsnbobs:clay_layers_block",
+    "bitsnbobs:red_sand_layers_block"
+  ]
+}

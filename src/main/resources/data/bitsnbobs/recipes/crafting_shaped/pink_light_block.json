@@ -1,0 +1,21 @@
+
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "ABA",
+    " A "
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:glow_ink_sac"
+    },
+    "B": {
+      "item": "minecraft:pink_concrete"
+    }
+  },
+  "result": {
+    "item": "bitsnbobs:pink_light_block",
+    "count": 1
+  }
+}

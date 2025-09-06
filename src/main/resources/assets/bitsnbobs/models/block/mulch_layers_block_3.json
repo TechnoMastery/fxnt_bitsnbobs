@@ -1,0 +1,10 @@
+{
+  "parent": "bitsnbobs:block/layers_block_3",
+  "textures": {
+    "top": "bitsnbobs:block/mulch/mulch_block",
+    "bottom": "bitsnbobs:block/mulch/mulch_block",
+    "side": "bitsnbobs:block/mulch/mulch_block",
+    "particle": "bitsnbobs:block/mulch/mulch_block",
+    "overlay": "bitsnbobs:block/mulch/mulch_block"
+  }
+}

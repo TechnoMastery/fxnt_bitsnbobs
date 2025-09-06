@@ -1,0 +1,16 @@
+
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:grass_block"
+    }
+  },
+  "result": {
+    "item": "bitsnbobs:grass_slab",
+    "count": 6
+  }
+}

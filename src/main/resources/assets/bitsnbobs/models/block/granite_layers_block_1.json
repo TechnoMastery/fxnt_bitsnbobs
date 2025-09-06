@@ -1,0 +1,10 @@
+{
+  "parent": "bitsnbobs:block/layers_block_1",
+  "textures": {
+    "top": "minecraft:block/granite",
+    "bottom": "minecraft:block/granite",
+    "side": "minecraft:block/granite",
+    "particle": "minecraft:block/granite",
+    "overlay": "minecraft:block/granite"
+  }
+}

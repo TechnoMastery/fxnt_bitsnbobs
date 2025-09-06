@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:podzol"
+  },
+  "result": "bitsnbobs:podzol_layers_block",
+  "count": 8
+}

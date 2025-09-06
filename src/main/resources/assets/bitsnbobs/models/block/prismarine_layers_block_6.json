@@ -1,0 +1,10 @@
+{
+  "parent": "bitsnbobs:block/layers_block_6",
+  "textures": {
+    "top": "minecraft:block/prismarine",
+    "bottom": "minecraft:block/prismarine",
+    "side": "minecraft:block/prismarine",
+    "particle": "minecraft:block/prismarine",
+    "overlay": "minecraft:block/prismarine"
+  }
+}

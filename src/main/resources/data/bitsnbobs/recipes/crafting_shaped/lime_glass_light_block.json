@@ -1,0 +1,21 @@
+
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "ABA",
+    " A "
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:glow_ink_sac"
+    },
+    "B": {
+      "item": "minecraft:lime_stained_glass"
+    }
+  },
+  "result": {
+    "item": "bitsnbobs:lime_glass_light_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "bitsnbobs:block/layers_block_5",
+  "textures": {
+    "top": "minecraft:block/crimson_nylium",
+    "bottom": "minecraft:block/crimson_nylium_side",
+    "side": "minecraft:block/netherrack",
+    "particle": "minecraft:block/netherrack",
+    "overlay": "minecraft:block/crimson_nylium_side"
+  }
+}

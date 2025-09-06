@@ -1,0 +1,7 @@
+{
+  "render_type": "minecraft:translucent",
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "bitsnbobs:block/glass/green_glass_light_block"
+  }
+}
